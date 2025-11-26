@@ -100,7 +100,7 @@ To ensure gstGPT can handle enterprise-scale loads (e.g., millions of invoices),
 
 ### 6.1. Scalability Architecture Diagram
 
-![Scalability Architecture](/Users/karanchandradey/.gemini/antigravity/brain/8a2c13b8-64f4-416e-b797-88953f36f207/scalability_architecture_diagram_1764192114336.png)
+![Scalability Architecture](images/scalability_architecture.png)
 
 ### 6.2. Scaling Strategies
 
@@ -127,5 +127,5 @@ To ensure gstGPT can handle enterprise-scale loads (e.g., millions of invoices),
 
 ## 7. Visual Architecture Reference
 
-![System Architecture](/Users/karanchandradey/.gemini/antigravity/brain/8a2c13b8-64f4-416e-b797-88953f36f207/system_architecture_diagram_1764192099650.png)
+![System Architecture](images/system_architecture.png)
 
