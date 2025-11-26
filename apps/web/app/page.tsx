@@ -22,8 +22,13 @@ export default function LandingPage() {
 
     return (
         <div className="min-h-screen bg-slate-950 text-slate-50 font-sans selection:bg-emerald-500/30">
+            {/* Top Banner */}
+            <div className="fixed top-0 w-full z-[60] h-8 bg-emerald-950/90 border-b border-emerald-500/20 flex items-center justify-center text-xs font-medium text-emerald-200 backdrop-blur-md">
+                Architected by <a href="https://www.linkedin.com/in/karan-chandra-dey-23392b1b9" target="_blank" rel="noopener noreferrer" className="ml-1 underline hover:text-white transition-colors">Karan Chandra Dey</a>
+            </div>
+
             {/* Navbar */}
-            <nav className="fixed top-0 w-full z-50 border-b border-slate-800 bg-slate-950/80 backdrop-blur-md">
+            <nav className="fixed top-8 w-full z-50 border-b border-slate-800 bg-slate-950/80 backdrop-blur-md">
                 <div className="container mx-auto px-6 h-16 flex items-center justify-between">
                     <div className="flex items-center gap-2">
                         <div className="h-8 w-8 bg-emerald-500 rounded-lg flex items-center justify-center">
@@ -213,7 +218,7 @@ export default function LandingPage() {
                         <a href="#" className="hover:text-emerald-400">Contact</a>
                     </div>
                     <div>
-                        &copy; 2024 gstGPT. All rights reserved.
+                        &copy; 2025 gstGPT. All rights reserved.
                         <div className="mt-2 text-xs text-slate-500">
                             Created by <a href="https://www.linkedin.com/in/karan-chandra-dey-23392b1b9" target="_blank" rel="noopener noreferrer" className="hover:text-emerald-400 underline decoration-slate-700 underline-offset-4">Karan Chandra Dey</a>
                         </div>
