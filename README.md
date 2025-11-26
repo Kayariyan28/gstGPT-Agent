@@ -1,5 +1,7 @@
 # gstGPT: Enterprise-Grade AI GST Counsel & Automation Agent
 
+![gstGPT Banner](apps/web/public/images/project_banner.jpg)
+
 ![Status](https://img.shields.io/badge/Status-Beta-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Tech Stack](https://img.shields.io/badge/Stack-Next.js%20%7C%20FastAPI%20%7C%20Postgres%20%7C%20Gemini-orange)
