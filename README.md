@@ -110,6 +110,12 @@ Interested in the market opportunity, problem statement, and strategic vision? R
 
 ---
 
+## 👨‍💻 Creator Credits
+
+**Karan Chandra Dey** — *AI Expert, Product Strategist, AI Product & Innovation Expert*
+
+---
+
 ## 🤝 Contributing
 We welcome contributions! Please see `CONTRIBUTING.md` for guidelines.
 
