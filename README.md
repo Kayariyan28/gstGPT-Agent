@@ -93,7 +93,7 @@ Unlike standard chatbots, gstGPT doesn't just answer questions—it **performs w
 
 ## 📊 System Architecture
 
-![System Architecture](docs/images/system_architecture.png)
+![System Architecture](apps/web/public/images/system_architecture.png)
 
 For a detailed breakdown of the system design, data flow, and component interactions, please refer to the [Architecture Documentation](docs/ARCHITECTURE.md).
 

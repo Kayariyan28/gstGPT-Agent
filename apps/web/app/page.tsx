@@ -119,7 +119,7 @@ export default function LandingPage() {
                             </div>
                             <div className="p-2">
                                 <img
-                                    src="/docs/images/system_architecture.png"
+                                    src="/images/system_architecture.png"
                                     alt="Dashboard Preview"
                                     className="w-full rounded-lg opacity-80 hover:opacity-100 transition-opacity duration-500"
                                 />
