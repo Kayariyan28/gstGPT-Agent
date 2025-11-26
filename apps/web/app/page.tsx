@@ -214,6 +214,9 @@ export default function LandingPage() {
                     </div>
                     <div>
                         &copy; 2024 gstGPT. All rights reserved.
+                        <div className="mt-2 text-xs text-slate-500">
+                            Created by <a href="https://www.linkedin.com/in/karan-chandra-dey-23392b1b9" target="_blank" rel="noopener noreferrer" className="hover:text-emerald-400 underline decoration-slate-700 underline-offset-4">Karan Chandra Dey</a>
+                        </div>
                     </div>
                 </div>
             </footer>
